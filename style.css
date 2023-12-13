@@ -200,6 +200,8 @@ body {
   }
 }
 
+
+
 h1,
 h2,
 h3,
@@ -3203,11 +3205,13 @@ ul {
 .requests-table-toolbar .request-table-filter {
   width: 100%;
 }
+
 @media (min-width: 768px) {
   .requests-table-toolbar .request-table-filter {
     width: auto;
   }
 }
+
 .requests-table-toolbar .request-filter {
   display: block;
 }
