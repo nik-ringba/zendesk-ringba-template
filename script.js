@@ -636,16 +636,18 @@
       "#request-organization select"
     );
 
-    if (requestOrganisationSelect) {
-      requestOrganisationSelect.addEventListener("change", () => {
-        requestOrganisationSelect.form.submit();
-      });
+    requestOrganisationSelect.disabled = true;
 
-      requestOrganisationSelect.addEventListener("click", (e) => {
-        // Prevents Ticket details collapsible-sidebar to close on mobile
-        e.stopPropagation();
-      });
-    }
+    // if (requestOrganisationSelect) {
+    //   requestOrganisationSelect.addEventListener("change", () => {
+    //     requestOrganisationSelect.form.submit();
+    //   });
+
+    //   requestOrganisationSelect.addEventListener("click", (e) => {
+    //     // Prevents Ticket details collapsible-sidebar to close on mobile
+    //     e.stopPropagation();
+    //   });
+    // }
 
     // If there are any error notifications below an input field, focus that field
     const notificationElm = document.querySelector(".notification-error");
