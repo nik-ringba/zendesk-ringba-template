@@ -1,7 +1,7 @@
 {
-  "name": "Ringba Theme Default",
+  "name": "Ringba Default Theme - GIT",
   "author": "Ringba",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "api_version": 3,
   "default_locale": "en-us",
   "settings": [
@@ -20,7 +20,7 @@
           "type": "color",
           "description": "brand_text_color_description",
           "label": "brand_text_color_label",
-          "value": "rgba(255, 255, 255, 1)"
+          "value": "rgba(249, 247, 249, 1)"
         },
         {
           "identifier": "text_color",
@@ -34,28 +34,28 @@
           "type": "color",
           "description": "link_color_description",
           "label": "link_color_label",
-          "value": "rgba(22, 17, 36, 1)"
+          "value": "rgba(47, 47, 48, 1)"
         },
         {
           "identifier": "hover_link_color",
           "type": "color",
           "description": "hover_link_color_description",
           "label": "hover_link_color_label",
-          "value": "rgba(215, 214, 214, 1)"
+          "value": "rgba(212, 214, 215, 1)"
         },
         {
           "identifier": "visited_link_color",
           "type": "color",
           "description": "visited_link_color_description",
           "label": "visited_link_color_label",
-          "value": "rgba(228, 228, 228, 1)"
+          "value": "rgba(22, 17, 36, 1)"
         },
         {
           "identifier": "background_color",
           "type": "color",
           "description": "background_color_description",
           "label": "background_color_label",
-          "value": "rgba(255, 255, 255, 1)"
+          "value": "rgba(247, 247, 248, 1)"
         }
       ]
     },

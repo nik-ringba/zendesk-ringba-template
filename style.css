@@ -4710,3 +4710,19 @@ html[dir=rtl] .notification-left-aligned {
 .upload-dropzone {
   border: 1px solid #87929D;
 }
+
+.request-button {
+  line-height: 38px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.request-button:hover > a{
+  color: $brand_text_color;
+  text-decoration: none;
+}
+
+.request-button > a {
+  padding: 0;
+  font-weight: 400;
+}
