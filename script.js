@@ -638,6 +638,8 @@
 
     requestOrganisationSelect.disabled = true;
 
+    // Disable organization selection.
+    
     // if (requestOrganisationSelect) {
     //   requestOrganisationSelect.addEventListener("change", () => {
     //     requestOrganisationSelect.form.submit();
