@@ -1,7 +1,7 @@
 {
   "name": "Ringba Default Theme - GIT",
   "author": "Ringba",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "api_version": 3,
   "default_locale": "en-us",
   "settings": [
@@ -55,6 +55,13 @@
           "type": "color",
           "description": "background_color_description",
           "label": "background_color_label",
+          "value": "rgba(247, 247, 248, 1)"
+        },
+        {
+          "identifier": "test_color",
+          "type": "color",
+          "description": "test_color_description",
+          "label": "test_color_label",
           "value": "rgba(247, 247, 248, 1)"
         }
       ]
