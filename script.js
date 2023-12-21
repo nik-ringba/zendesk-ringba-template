@@ -636,10 +636,10 @@
       "#request-organization select"
     );
 
-    requestOrganisationSelect.disabled = true;
 
     // Disable organization selection.
-    
+    requestOrganisationSelect.disabled = true;
+
     // if (requestOrganisationSelect) {
     //   requestOrganisationSelect.addEventListener("change", () => {
     //     requestOrganisationSelect.form.submit();
