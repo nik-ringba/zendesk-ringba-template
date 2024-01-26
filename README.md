@@ -45,6 +45,8 @@ Before deploying a new version of the theme:
 2. **Deploying the Theme:**
    - Within the Zendesk Theme Workbench, locate the option to update the theme.
    - Select the option to 'Update theme from GitHub'. This will pull the latest version of the theme from the GitHub repository, incorporating all recent changes.
+
+  ---
   
    <img width="622" alt="image" src="https://github.com/nik-ringba/zendesk-ringba-template/assets/122822827/35d0e3e0-00d5-49ed-993c-220cda8a528a">
 
