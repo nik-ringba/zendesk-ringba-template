@@ -59,8 +59,4 @@ Please ensure that all changes are thoroughly tested in a staging environment be
 
 ---
 
-For further assistance or to report issues with deployment, please refer to our [technical support guidelines](LINK_TO_SUPPORT_GUIDELINES) or contact the repository administrators.
-
----
-
 This deployment guide is designed to ensure a smooth and error-free update process for our Zendesk End-User Help Center Theme.
