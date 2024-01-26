@@ -61,7 +61,3 @@ After updating the theme, it's recommended to:
 ### Note
 
 Please ensure that all changes are thoroughly tested in a staging environment before deploying them to the live Help Center to avoid any disruptions in service.
-
----
-
-This deployment guide is designed to ensure a smooth and error-free update process for our Zendesk End-User Help Center Theme.
